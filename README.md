@@ -1,0 +1,2 @@
+# Datacamp-Projects
+The projects that I have uploaded to this repository are some guided projects which I have done during my learning of Datascience on Datacamp. I want to make clear that these are guided projects and I have no intention of calling this solely my work. The reason to showcase these projects is to show the skills I am capable of. As these projects may be guided, but I did do the coding for them.
